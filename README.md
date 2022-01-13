@@ -7,4 +7,4 @@ Made this to practice object-oriented programming.<br><br>
 2. Open your console.
 3. Make a **new Stopwatch** object.
 4. Use the methods: **.start(), .stop(), .showTime(), .reset()** 
-<img src="https://user-images.githubusercontent.com/84921627/149357536-6cb030ff-6ef7-46b4-9ac7-18cc0d2f7903.png" width=50%>
+<img src="https://user-images.githubusercontent.com/84921627/149362187-ad5f3e42-eb72-41da-93cd-73e7a6ffbce7.png" width=50%>
