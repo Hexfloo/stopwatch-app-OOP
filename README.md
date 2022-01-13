@@ -1,6 +1,6 @@
 # stopwatch-app-OOP
 Create a Stopwatch object and use it's methods to mesure time (in seconds). :stopwatch: :timer_clock: <br>
-Made this to practice object-oriented programming.<br><br>
+Made this to practice object-oriented programming in JS.<br><br>
 
 **How to use this Stopwatch:**
 1. Go to: https://hexfloo.github.io/stopwatch-app-OOP/
