@@ -36,7 +36,7 @@ function Stopwatch() {
         startTime = null;
         endTime = null;
         isRunning = false;
-        return "Stopwatch has reset";
+        return "Stopwatch is reset";
     };
 
 }
