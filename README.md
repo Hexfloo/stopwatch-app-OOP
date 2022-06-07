@@ -1,5 +1,5 @@
-# stopwatch-app-OOP
-Create a Stopwatch object and use it's methods to mesure time (in seconds). :stopwatch: :timer_clock: <br>
+# stopwatch-app-OOP :stopwatch: :timer_clock:
+Create a Stopwatch object and use it's methods to mesure time (in seconds). <br>
 Made this to practice object-oriented programming in JS.<br><br>
 
 **How to use this Stopwatch:**
