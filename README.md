@@ -2,7 +2,7 @@
 Create a Stopwatch object and use it's methods to mesure time (in seconds). <br>
 Made this to practice object-oriented programming in JS.<br><br>
 
-**How to use this Stopwatch:**
+# **How to use this Stopwatch:**
 1. Go to: https://hexfloo.github.io/stopwatch-app-OOP/
 2. Open your console.
 3. Make a **new Stopwatch** object.
